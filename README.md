@@ -16,7 +16,7 @@ ia estudar ou jogar. Agora é um clique.
 ## Como rodar
 
 Este repositório contém apenas o código-fonte. O executável (.exe)
-não é versionado — para gerá-lo você mesmo.
+não é versionado para gerá-lo você mesmo.
 
 **1. Clone o repositório**
 
