@@ -7,6 +7,11 @@ ia estudar ou jogar. Agora é um clique.
 - 📚 **Estudo** → abre VS Code, terminal e Firefox
 - 🎮 **Jogos** → abre Steam, Discord, Firefox e WhatsApp
 
+> **Nota:** os caminhos dos aplicativos no código são específicos
+> do meu ambiente Windows. Este é um projeto de portfólio
+> demonstrando automação com Python — para uso próprio, ajuste os
+> caminhos em `main.py` conforme sua instalação.
+
 ## Tecnologias
 
 - Python
@@ -16,7 +21,7 @@ ia estudar ou jogar. Agora é um clique.
 ## Como rodar
 
 Este repositório contém apenas o código-fonte. O executável (.exe)
-não é versionado — para gerá-lo você mesmo.
+não é versionado para gerá-lo você mesmo.
 
 **1. Clone o repositório**
 
